@@ -97,7 +97,7 @@ int main()
             } 
             if(i == limit - 1) 
             {
-                  i = 0; 
+                  i = 0;
             
 			}
             else if(a_time[i + 1] <= total) 
